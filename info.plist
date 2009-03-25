@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Vines</string>
+	<key>ordering</key>
+	<array>
+		<string>F3845168-36D9-4930-A7F2-E7D7EE636279</string>
+		<string>A2468714-AB04-4A52-8875-9B4FE1C94B1B</string>
+		<string>0B830C25-4300-447D-BC19-3ECED414106B</string>
+		<string>5760F1D5-744D-4DF7-883B-968412349E19</string>
+		<string>EF385181-C2BE-49AE-8B81-A95B9B9FA198</string>
+		<string>83657A1C-BD76-4B13-BCE2-7414C65BF337</string>
+		<string>5A0BD616-8C63-4701-9BC3-4308B625083D</string>
+	</array>
+	<key>uuid</key>
+	<string>532FBB35-6F2C-4A7A-8B76-C1DFEE76E24D</string>
+</dict>
+</plist>
