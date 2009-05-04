@@ -2,8 +2,23 @@ h1. Vines
 
 Swing around your code.
 
+h1. How To Install
+
 <pre>
   mkdir -p ~/Library/Application\ Support/TextMate/Bundles/
   cd ~/Library/Application\ Support/TextMate/Bundles/
-  git clone git://github.com/timcharper/rubyamp.git RubyAMP.tmbundle
+  git clone git://github.com/timcharper/vines.tmbundle.git Vines.tmbundle
 </pre>
+
+
+h2. Features
+
+* Select Previous Parenthesis       cmd-(
+* Select Next Parenthesis           cmd-)
+* Find Next String/Symbol           cmd-"
+* Find Previous String/Symbol       cmd-:
+* Select Next Bracket/Brace         cmd-}
+* Select Previous Bracket/Brace     cmd-{
+* Select Tag                        cmd->
+
+
